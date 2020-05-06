@@ -51,4 +51,4 @@ const getComputerChoice = () => {
     console.log(`Computer Choice: ${computerChoice}`);
     console.log(determineWinner(userChoice,computerChoice));
   }
-  playGame()
+  playGame();
